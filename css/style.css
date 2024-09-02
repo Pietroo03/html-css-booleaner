@@ -41,7 +41,11 @@ h2{
     padding-top: 20px;
 }
 
-#evidenziato{
+#story{
+    padding-top: 20px;
+}
+
+.evidenziato{
     background-color: yellow;
 }
 
@@ -66,4 +70,9 @@ td{
 
 .blu{
     background-color: lightblue;
+}
+
+#details{
+    padding-top: 10px;
+    padding-bottom: 20px;
 }
