@@ -40,3 +40,12 @@ h2{
 #photo{
     padding-top: 20px;
 }
+
+#evidenziato{
+    background-color: yellow;
+}
+
+#list{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
