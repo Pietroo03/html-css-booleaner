@@ -7,15 +7,12 @@ header{
     background-size: contain;
     background-color: rgb(78, 147, 244);
     height: 50px;
-    padding: 10px 50px;
+    padding-top: 20px;
+    padding-left: 50px;
 }
 
-h1{
-    margin: 0;
-    color: white;
-    padding-top: 10px;
-    font-size: 30px;
-    font-weight: 100;
+#logo{
+    width: 180px;
 }
 main{
     margin: 0px;
@@ -50,8 +47,11 @@ h2{
 }
 
 #list{
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding: 20px;
+}
+
+ul{
+    padding-left: 0px;
 }
 
 #table{
@@ -66,6 +66,7 @@ h2{
 
 td{
     height: 60px;
+    padding: 10px;
 }
 
 .blu{
@@ -75,4 +76,30 @@ td{
 #details{
     padding-top: 10px;
     padding-bottom: 20px;
+}
+
+footer{
+    padding-left: 50px;
+}
+
+h4{
+    color: gray;
+}
+
+#monitor{
+    background-image: url(../booleaner_img/img/monitor.jpg);
+    width: 300px;
+    height: 200px;
+    color: white;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+#graph{
+    background-image: url(../booleaner_img/img/graph.jpg);
+    width: 300px;
+    height: 200px;
+    color: white;
+    padding-left: 10px;
+    padding-top: 10px;
 }
