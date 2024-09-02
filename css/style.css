@@ -49,3 +49,21 @@ h2{
     padding-top: 20px;
     padding-bottom: 20px;
 }
+
+#table{
+    font-size: 12px;
+    text-align: left;
+}
+
+#intestazione{
+    background-color: rgba(12, 12, 214, 0.357);
+    color: white;
+}
+
+td{
+    height: 60px;
+}
+
+.blu{
+    background-color: lightblue;
+}
