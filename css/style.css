@@ -54,9 +54,10 @@ ul{
     padding-left: 0px;
 }
 
-#table{
+table{
     font-size: 12px;
     text-align: left;
+    border-collapse: collapse;
 }
 
 #intestazione{
@@ -64,8 +65,9 @@ ul{
     color: white;
 }
 
-td{
-    height: 60px;
+td {
+    height: 30px;
+    width: ;
     padding: 10px;
 }
 
@@ -104,5 +106,4 @@ h4{
     padding-left: 10px;
     padding-top: 10px;
     margin-bottom: 10px;
-
 }
