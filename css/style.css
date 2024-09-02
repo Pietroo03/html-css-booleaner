@@ -1,7 +1,5 @@
 body{
-    margin-top: 0;
-    margin-left: 0;
-    margin-right: 0;
+    margin: 0px;
 
 }
 header{
@@ -9,12 +7,32 @@ header{
     background-size: contain;
     background-color: rgb(78, 147, 244);
     height: 50px;
+    padding: 10px 50px;
 }
 
 h1{
     margin: 0;
     color: white;
-    padding: 10px 50px;
+    padding-top: 10px;
     font-size: 30px;
     font-weight: 100;
+}
+main{
+    margin: 0px;
+    padding-left: 50px;
+    padding-right: 50px;;
+
+}
+
+h2{
+    font-size: 40px;
+    margin: 0;
+}
+
+.autore{
+    color: grey;
+}
+
+#autore{
+    color: rgb(142, 142, 222);
 }
